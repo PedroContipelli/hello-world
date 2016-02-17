@@ -1,3 +1,3 @@
 # hello-world
-Learning how to use repositories
-Hello World!
+Learning how to use GitHub
+(Testing)
